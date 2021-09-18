@@ -1,1 +1,2 @@
 CON_genome_assembly_v1.0_final.zip filter=lfs diff=lfs merge=lfs -text
+CON_genome_v1.0_repeat.masked.zip filter=lfs diff=lfs merge=lfs -text
