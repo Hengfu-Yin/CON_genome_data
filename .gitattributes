@@ -1,0 +1,1 @@
+CON_genome_assembly_v1.0_final.zip filter=lfs diff=lfs merge=lfs -text
