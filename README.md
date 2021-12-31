@@ -3,4 +3,4 @@ This page contains the genome sequences and annotation information of the CON ge
 
 The final assembly of the CON genome is in CON_genome_assembly_v1.0_final.zip.
 
-The **CON_genome_data** is provided under the LGPL-3.0 License.
+The **CON_genome_data** is provided under the GPL-3.0 License.
